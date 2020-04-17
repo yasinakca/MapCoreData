@@ -14,6 +14,7 @@
 		318008CB244A3B1100C50131 /* MapUsage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 318008C9244A3B1100C50131 /* MapUsage.xcdatamodeld */; };
 		318008CD244A3B1200C50131 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 318008CC244A3B1200C50131 /* Assets.xcassets */; };
 		318008D0244A3B1200C50131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 318008CE244A3B1200C50131 /* LaunchScreen.storyboard */; };
+		318008D8244A3B5800C50131 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 318008D7244A3B5800C50131 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		318008CC244A3B1200C50131 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		318008CF244A3B1200C50131 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		318008D1244A3B1200C50131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		318008D7244A3B5800C50131 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				318008C0244A3B1100C50131 /* AppDelegate.swift */,
 				318008C2244A3B1100C50131 /* SceneDelegate.swift */,
 				318008C4244A3B1100C50131 /* ViewController.swift */,
+				318008D7244A3B5800C50131 /* MapViewController.swift */,
 				318008C6244A3B1100C50131 /* Main.storyboard */,
 				318008CC244A3B1200C50131 /* Assets.xcassets */,
 				318008CE244A3B1200C50131 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				318008CB244A3B1100C50131 /* MapUsage.xcdatamodeld in Sources */,
 				318008C5244A3B1100C50131 /* ViewController.swift in Sources */,
 				318008C1244A3B1100C50131 /* AppDelegate.swift in Sources */,
+				318008D8244A3B5800C50131 /* MapViewController.swift in Sources */,
 				318008C3244A3B1100C50131 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
